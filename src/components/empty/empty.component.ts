@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'empty',
+  selector: 'app-empty',
   templateUrl: './empty.component.html',
   styleUrls: ['./empty.component.less']
 })
